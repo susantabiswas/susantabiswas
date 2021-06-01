@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 
 ### Hi! I'm [Susanta!](https://susantabiswas.github.io) 👋
 
-Exploring tech in general. Not another data science **enthusiast**!
-
-- 🔭 I’m currently working on computer vision and NLP problems.
+- 🔭 I’m currently working on practical computer vision and NLP problems.
 - 🌱 I’m currently learning more about distributed systems.  
 
 <a href="https://github.com/susantabiswas">
@@ -24,5 +22,5 @@ Exploring tech in general. Not another data science **enthusiast**!
 <td>
 <a href="https://github.com/susantabiswas">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susantabiswas&hide=jupyter%20notebook&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susantabiswas&hide=jupyter%20notebook,css&layout=compact&theme=dracula" />
 </a>
