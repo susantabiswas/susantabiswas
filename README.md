@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**susantabiswas/susantabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! I'm [Susanta!](https://susantabiswas.github.io) 👋
+
+Exploring tech in general. Not another data science **enthusiast**!
+
+- 🔭 I’m currently working on computer vision and NLP problems.
+- 🌱 I’m currently learning more about distributed systems.  
+
+<a href="https://github.com/susantabiswas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=susantabiswas&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+</a>
+<td>
+<a href="https://github.com/susantabiswas">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susantabiswas&hide=jupyter%20notebook&layout=compact&theme=dracula" />
+</a>
