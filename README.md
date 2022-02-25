@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 ### Hi! I'm [Susanta!](https://susantabiswas.github.io) 👋
 
-- 🔭 I’m currently working on practical computer vision and NLP problems.
+- 🔭 Working on hyper-scale distributed systems.
+- 🔭 Experienced in solving practical computer vision and NLP problems.
 - 🌱 I’m currently learning more about distributed systems.  
 
 <a href="https://github.com/susantabiswas">
